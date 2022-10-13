@@ -1,0 +1,15 @@
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_005\bin\Debug\net6.0\TASK_005.exe
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_005\bin\Debug\net6.0\TASK_005.deps.json
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_005\bin\Debug\net6.0\TASK_005.runtimeconfig.json
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_005\bin\Debug\net6.0\TASK_005.dll
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_005\bin\Debug\net6.0\TASK_005.pdb
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_005\obj\Debug\net6.0\TASK_005.csproj.AssemblyReference.cache
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_005\obj\Debug\net6.0\TASK_005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_005\obj\Debug\net6.0\TASK_005.AssemblyInfoInputs.cache
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_005\obj\Debug\net6.0\TASK_005.AssemblyInfo.cs
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_005\obj\Debug\net6.0\TASK_005.csproj.CoreCompileInputs.cache
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_005\obj\Debug\net6.0\TASK_005.dll
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_005\obj\Debug\net6.0\refint\TASK_005.dll
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_005\obj\Debug\net6.0\TASK_005.pdb
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_005\obj\Debug\net6.0\TASK_005.genruntimeconfig.cache
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_005\obj\Debug\net6.0\ref\TASK_005.dll
