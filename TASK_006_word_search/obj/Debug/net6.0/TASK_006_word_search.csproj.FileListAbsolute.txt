@@ -1,0 +1,15 @@
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_006_word_search\obj\Debug\net6.0\TASK_006_word_search.csproj.AssemblyReference.cache
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_006_word_search\obj\Debug\net6.0\TASK_006_word_search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_006_word_search\obj\Debug\net6.0\TASK_006_word_search.AssemblyInfoInputs.cache
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_006_word_search\obj\Debug\net6.0\TASK_006_word_search.AssemblyInfo.cs
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_006_word_search\obj\Debug\net6.0\TASK_006_word_search.csproj.CoreCompileInputs.cache
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_006_word_search\bin\Debug\net6.0\TASK_006_word_search.exe
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_006_word_search\bin\Debug\net6.0\TASK_006_word_search.deps.json
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_006_word_search\bin\Debug\net6.0\TASK_006_word_search.runtimeconfig.json
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_006_word_search\bin\Debug\net6.0\TASK_006_word_search.dll
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_006_word_search\bin\Debug\net6.0\TASK_006_word_search.pdb
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_006_word_search\obj\Debug\net6.0\TASK_006_word_search.dll
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_006_word_search\obj\Debug\net6.0\refint\TASK_006_word_search.dll
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_006_word_search\obj\Debug\net6.0\TASK_006_word_search.pdb
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_006_word_search\obj\Debug\net6.0\TASK_006_word_search.genruntimeconfig.cache
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_006_word_search\obj\Debug\net6.0\ref\TASK_006_word_search.dll
