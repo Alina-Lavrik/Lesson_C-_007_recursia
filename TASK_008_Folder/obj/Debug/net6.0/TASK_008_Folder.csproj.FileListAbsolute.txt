@@ -1,0 +1,15 @@
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_008_Folder\bin\Debug\net6.0\TASK_008_Folder.exe
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_008_Folder\bin\Debug\net6.0\TASK_008_Folder.deps.json
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_008_Folder\bin\Debug\net6.0\TASK_008_Folder.runtimeconfig.json
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_008_Folder\bin\Debug\net6.0\TASK_008_Folder.dll
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_008_Folder\bin\Debug\net6.0\TASK_008_Folder.pdb
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_008_Folder\obj\Debug\net6.0\TASK_008_Folder.csproj.AssemblyReference.cache
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_008_Folder\obj\Debug\net6.0\TASK_008_Folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_008_Folder\obj\Debug\net6.0\TASK_008_Folder.AssemblyInfoInputs.cache
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_008_Folder\obj\Debug\net6.0\TASK_008_Folder.AssemblyInfo.cs
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_008_Folder\obj\Debug\net6.0\TASK_008_Folder.csproj.CoreCompileInputs.cache
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_008_Folder\obj\Debug\net6.0\TASK_008_Folder.dll
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_008_Folder\obj\Debug\net6.0\refint\TASK_008_Folder.dll
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_008_Folder\obj\Debug\net6.0\TASK_008_Folder.pdb
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_008_Folder\obj\Debug\net6.0\TASK_008_Folder.genruntimeconfig.cache
+C:\Програмирование\GeekBrains\Уроки C#\Lesson_07_examples_recursia\TASK_008_Folder\obj\Debug\net6.0\ref\TASK_008_Folder.dll
